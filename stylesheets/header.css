@@ -1,14 +1,21 @@
 
 /* Style header */
 .md-header {
-    background-color: white; 
+    background-color: aquamarine; 
+}
+
+.md-nav {
+    background-color: aquamarine; 
 }
 
 .md-header__title {
-    color: black
+    color: black;
+    font-weight: bold;
 }
 
 .md-header-nav__title, .md-nav__link {
     color: black;
 }
+
+
     
